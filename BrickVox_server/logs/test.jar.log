@@ -1,0 +1,22 @@
+Build tools version: 1.0.0.1
+LOG GENERATED AT: [30/07/2022 21:32:44]
+-----------------------------------------------------------
+ BRICKVOX PLUGIN: test plugin 1 | LOGGER VERSION: 1.0
+-----------------------------------------------------------
+[30/07/2022 21:32:44 MESSAGE]>> logged in with credentials: localhost, bonii_vw, boniic6h12o6+!, Voxel_World
+[30/07/2022 21:32:52 _SERVER]>> Object Is new object generating for script....
+[30/07/2022 21:32:52 _SERVER]>> packet sent: INSERT INTO custom_object (Nameob,obCode,Sesion,img_ul, is_cube) VALUES ('CHEESE_BURGER','',0,'http://www.bonisoft.slpmx.com/headquarters/CheeseBurguer.bmp', 0);
+[30/07/2022 21:32:52 _SERVER]>> Object Is new object generating for script....
+[30/07/2022 21:32:52 _SERVER]>> packet sent: INSERT INTO custom_object (Nameob,obCode,Sesion,img_ul, is_cube) VALUES ('BONI_KOLA','',0,'http://www.bonisoft.slpmx.com/headquarters/bonikola.bmp', 0);
+[30/07/2022 21:32:52 _SERVER]>> Object Is new object generating for script....
+[30/07/2022 21:32:52 _SERVER]>> packet sent: INSERT INTO custom_object (Nameob,obCode,Sesion,img_ul, is_cube) VALUES ('SCREEN','',0,'http://www.bonisoft.slpmx.com/headquarters/cscreen.bmp', 0);
+[30/07/2022 21:32:52 _SERVER]>> Object Is new object generating for script....
+[30/07/2022 21:32:52 _SERVER]>> packet sent: INSERT INTO custom_object (Nameob,obCode,Sesion,img_ul, is_cube) VALUES ('BOOKS','',0,'http://www.bonisoft.slpmx.com/headquarters/cbooks.bmp', 0);
+[30/07/2022 21:32:53 _SERVER]>> Object Is new object generating for script....
+[30/07/2022 21:32:53 _SERVER]>> packet sent: INSERT INTO custom_object (Nameob,obCode,Sesion,img_ul, is_cube) VALUES ('BLUE_GLASS','',0,'http://www.bonisoft.slpmx.com/headquarters/cglass.bmp', 1);
+[30/07/2022 21:32:53 _SERVER]>> packet sent: SELECT P_Joined FROM Players_ingame ORDER BY P_Joined DESC LIMIT 1;
+[30/07/2022 21:32:53 _SERVER]>> entity sent to the server propperly
+[30/07/2022 21:32:53 _SERVER]>> packet sent: SELECT P_Joined FROM Players_ingame ORDER BY P_Joined DESC LIMIT 1;
+[30/07/2022 21:32:53 _SERVER]>> entity sent to the server propperly
+success generating city
+[30/07/2022 22:43:38 _SERVER]>> plugin ended with status 0 - Reason: SERVER WAS SHUT DOWN
